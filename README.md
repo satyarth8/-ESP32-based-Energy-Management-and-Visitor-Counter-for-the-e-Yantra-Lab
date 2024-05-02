@@ -41,4 +41,4 @@
 The project aims to automate energy management by switching on/off lab lights and fans based on the number of people in the lab. It uses ultrasonic sensors to detect when someone enters or exits the lab. The system displays the current count of visitors on an LCD screen and can also relay this information through a serial interface.
 
 ## Contact
-For questions, suggestions, or contributions, feel free to open an issue or submit a pull request. You can also reach us via email at [satyarthaprakash@gmail.com].
+For questions, suggestions, or contributions, feel free to open an issue or submit a pull request. You can also reach us via email at [satyarthaprakash7168@gmail.com].
