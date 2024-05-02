@@ -32,16 +32,13 @@
 5. Power up the system to start monitoring visitors and controlling lab equipment.
 
 ## Usage
-- When a person enters the lab, the ultrasonic sensors detect this, and the count increases by one.
-- When a person exits the lab, the count decreases by one.
-- If the count is greater than or equal to one, the relay is activated, turning on the lab's lights and fans.
-- If the count is zero, the relay is deactivated, turning off the lights and fans to save energy.
-
+- if( ```IN Sensor``` detects a person )
+    check the ```OUT sensor``` for 3 seconds , using of a loop of 10, having delay of 300ms...
+        if(``` OUT Sensor``` detected a person within that time period than increase the count of person in room and , activate relay accordingly...
+  the vice versa happens to detect if the person has exited the lab.
+  
 ## Project Overview
 The project aims to automate energy management by switching on/off lab lights and fans based on the number of people in the lab. It uses ultrasonic sensors to detect when someone enters or exits the lab. The system displays the current count of visitors on an LCD screen and can also relay this information through a serial interface.
 
-## License
-This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute this code with proper attribution.
-
 ## Contact
-For questions, suggestions, or contributions, feel free to open an issue or submit a pull request. You can also reach us via email at [your_email@example.com].
+For questions, suggestions, or contributions, feel free to open an issue or submit a pull request. You can also reach us via email at [satyarthaprakash@gmail.com].
