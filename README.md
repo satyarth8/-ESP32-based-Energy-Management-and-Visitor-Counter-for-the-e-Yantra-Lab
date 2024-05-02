@@ -1,4 +1,7 @@
 # ESP32-based Energy Management and Visitor Counter for the e-Yantra Lab
+### Circuit Diagram
+<img src="https://github.com/satyarth8/-ESP32-based-Energy-Management-and-Visitor-Counter-for-the-e-Yantra-Lab/assets/126249188/5835acc0-a09b-4403-a272-df75b6905c39" style="width:50%;height:auto;" /> 
+
 ## GEC Khagaria's Submission for eYantra eLSI Hackathon: Automate your lab 
 > This project is a solution designed for the e-Yantra Lab environment, aimed at improving energy efficiency by controlling lights and fans based on visitor count. It uses an ESP32 microcontroller with ultrasonic sensors to detect the entry and exit of people, which in turn controls the power supply to the lab equipment.
 
@@ -10,8 +13,6 @@
 <img src="https://github.com/satyarth8/-ESP32-based-Energy-Management-and-Visitor-Counter-for-the-e-Yantra-Lab/assets/126249188/330030bd-8586-4dab-b410-b71acc2b0c36" style="width:40%;height:auto;" /> 
 
 > https://www.tinkercad.com/things/7Fbl2wsHccv-copy-of-copy-of-copy-of-ultrasonic-with-led/editel?tenant=circuits
-### Circuit Diagram
-<img src="https://github.com/satyarth8/-ESP32-based-Energy-Management-and-Visitor-Counter-for-the-e-Yantra-Lab/assets/126249188/5835acc0-a09b-4403-a272-df75b6905c39" style="width:50%;height:auto;" /> 
 
 ### Demonstration Video
 > https://www.youtube.com/watch?v=TaXw040LogM
